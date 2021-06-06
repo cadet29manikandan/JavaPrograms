@@ -10,9 +10,7 @@ Hope Its Helps You Guys.
 
 ||Current Status|
 |---|---|
-|Build|[ ![test](https://github.com/ACRA/acra/workflows/test/badge.svg?branch=master) ](https://github.com/ACRA/acra/actions?query=workflow%3Atest)|
 |License|![license](https://img.shields.io/github/license/ACRA/acra.svg)|
-| Statistics|[![AppBrain stats](https://www.appbrain.com/stats/libraries/shield/acra.svg)](https://www.appbrain.com/stats/libraries/details/acra/acra)|
 
 
 ### License
