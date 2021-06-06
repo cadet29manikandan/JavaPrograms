@@ -13,7 +13,7 @@ class Student {
 }
 
 // Elements of the array are objects of a class Student.
-public class Demo02 {
+class ArrayofObjects {
     public static void main(String[] args) {
         // declares an Array of integers.
         Student[] arr;
