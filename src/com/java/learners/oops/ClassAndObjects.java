@@ -1,4 +1,4 @@
-package com.java.learners.todayclass.oops;
+package com.java.learners.oops;
 
 public class ClassAndObjects {
     // Instance Variables

@@ -1,4 +1,4 @@
-package com.java.learners.todayclass.oops.inheritance.types;
+package com.java.learners.oops.inheritance.types;
 
 class SolarSystem {
 }

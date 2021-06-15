@@ -1,4 +1,4 @@
-package com.java.learners.todayclass.oops.inheritance;
+package com.java.learners.oops.inheritance;
 
 // Java program to illustrate the concept of inheritance
 
